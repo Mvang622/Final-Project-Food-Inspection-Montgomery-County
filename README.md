@@ -22,7 +22,7 @@ The `Logistic Regression.xlsx` file in this repository contains the multivariabl
 * **Threshold Optimization:** At the standard 0.50 cutoff, the model reaches 69.7% overall accuracy but misses 82.4% of actual violators; lowering the dispatch cutoff to 0.30 captures nearly 70% of critical violators proactively.
 
 ## Business Case Report Section
-This section presents the project report *"Food Safety Inspection Risk Analysis: Montgomery County"* by Mikey Vang. The paper evaluates operational, environmental, and historical drivers of food safety violations from 2022 to 2024. It includes an executive summary, data and methodology overview, visual findings from Tableau, logistic regression modeling and confusion matrix evaluation, strategic recommendations for health inspectors, and embedded figures.
+This section presents the project report *"Food Safety Inspection Risk Analysis: Montgomery County"* by the team Soum’s Prodigies (Mikey Vang, Jace Miller, Maxwell Blanc, & Ryan Winkler). The paper evaluates operational, environmental, and historical drivers of food safety violations from 2022 to 2024. It includes an executive summary, data and methodology overview, visual findings from Tableau, logistic regression modeling and confusion matrix evaluation, strategic recommendations for health inspectors, and embedded figures.
 
 ## How to Use This Repository
 * **Accessing the Paper:** The full Business Case Report is available in the accompanying Word/PDF report file in this repository.
@@ -31,7 +31,7 @@ This section presents the project report *"Food Safety Inspection Risk Analysis:
 
 ## Additional Information
 * The project is based on Montgomery County food inspection data collected from October 2022 through October 2024.
-* For inquiries, contact the author, Mikey Vang.
+* For inquiries, contact the author, Mikey Vang, Jace Miller, Maxwell Blanc, Ryan Winkler.
 
 ---
 
