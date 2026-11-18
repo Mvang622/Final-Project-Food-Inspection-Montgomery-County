@@ -1,4 +1,4 @@
-# Part 2 - Tableau File and Visual
+# Part 2 - Tableau File and Visual 
 
 This folder contains the interactive Tableau workbooks, high-resolution exported chart images, and presentation materials used to visualize food safety inspection patterns across Montgomery County[cite: 14].
 
