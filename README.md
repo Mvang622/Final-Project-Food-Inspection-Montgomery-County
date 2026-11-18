@@ -5,7 +5,7 @@ BUS 446 Final Project
 README for Food Safety Inspection Risk Analysis: Montgomery County (Data Analytics Final Project)
 
 ## Data Section
-The data used for this project is sourced from the Montgomery County Open Data portal [Food Inspection Records](https://data.montgomerycountymd.gov/Health-and-Human-Services/Food-Inspection/5pue-gfbe). The study analyzes 11,835 health inspection records across 4,160 unique food establishments collected between October 2022 and October 2024. Data cleaning, binary target encoding (`Is_Adverse`), and longitudinal sorting (`Prior_Adverse`) steps are detailed in the report, and the cleaned dataset is available in the `DATA INSPECT.xlsx` file.
+The data used for this project is sourced from the Data.gov repository [Food Inspection Dataset](https://catalog.data.gov/dataset/food-inspection?from_hint=eyJxIjoiRm9vZCBpbnNwZWN0aW9uIiwic29ydCI6InJlbGV2YW5jZSJ9). The study analyzes 11,835 health inspection records across 4,160 unique food establishments collected between October 2022 and October 2024. Data cleaning, binary target encoding (`Is_Adverse`), and longitudinal sorting (`Prior_Adverse`) steps are detailed in the report, and the cleaned dataset is available in the `DATA INSPECT.xlsx` file.
 
 ## Visualization with Final Findings Section
 This section contains the Tableau workbooks (`Project for class.twb` and `Projecct for class Q2.twb`) and exported high-resolution charts used in the project presentation and report. The visualizations cover inspection outcome rates by facility category, the corrective impact of follow-up reinspections, the Pareto ranking of top health code violations, violation hotspots by establishment type, and seasonal refrigeration failure trends.
