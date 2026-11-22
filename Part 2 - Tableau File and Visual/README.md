@@ -12,7 +12,7 @@ Contains the packaged Tableau workbooks built for exploratory and visual analysi
 ### 2. `Tableau Visuals/`
 Contains the high-resolution `.png` chart exports formatted with clear labels, sorted risk rankings, and consistent color legends for direct inclusion in the Business Case Report and presentation slides[cite: 14].
 
-### 3. `Presentation/` *(Upcoming)*
+### 3. `Presentation/` 
 Contains the final PowerPoint presentation deck summarizing the exploratory visualizations, key operational findings, predictive modeling results, and strategic recommendations for health inspectors.
 
 ## Key Visual Insights
